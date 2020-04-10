@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_akshay_lenovo_y50_70__41525: 'http://akshay-Lenovo-Y50-70:41525/'}
+rosversion: '1.12.14
+
+  '
+run_id: 62e78424-7a79-11ea-851e-c038960cb587
