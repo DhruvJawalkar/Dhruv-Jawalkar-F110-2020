@@ -1,2 +1,2 @@
-beginner_tutorials:jawalkar_runtime_monitoring
+ackermann_msgs:beginner_tutorials:jawalkar_runtime_monitoring:need4speed_runtime_monitoring:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver:vesc/vesc_msgs
 -DCATKIN_DEVEL_PREFIX=/home/dhruv/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dhruv/catkin_ws/install -G Unix Makefiles

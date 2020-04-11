@@ -1,0 +1,8 @@
+prefix=/home/dhruv/catkin_ws/devel
+
+Name: need4speed_runtime_monitoring
+Description: Description of need4speed_runtime_monitoring
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
